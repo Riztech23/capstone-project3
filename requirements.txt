@@ -1,0 +1,11 @@
+streamlit>=1.24
+pandas
+langchain>=0.0.278
+openai
+qdrant-client
+python-dotenv
+tqdm
+requests
+langchain-openai
+langchain-qdrant
+langgraph
